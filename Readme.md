@@ -1,11 +1,9 @@
-# dxChart - How to show a percent value in a stacked bar tooltip 
+# (Obsolete) dxChart - How to show a percent value in a stacked bar tooltip 
 
+This example is now obsolete. You can find an actual example in our technical demos:
 
-<p>This example illustrates how to show a percent value in a tooltip of a stacked bar dxChart. To accomplish this task, do the following:</p><p>- Add the "total" filed to a chart's data source;<br />
-- Mark this filed as the <a href="http://chartjs.devexpress.com/ApiReference/dxChart/Configuration/commonSeriesSettings#tagField"><u>tagField</u></a> option;<br />
-- Calculate a percent value when showing a tooltip.<br />
-</p>
-
-<br/>
-
-
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/StackedBar/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/StackedBar/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/StackedBar/Vue/Light/)<br/>
+[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/StackedBar/NetCore/Light/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/StackedBar/jQuery/Light/)<br/>
